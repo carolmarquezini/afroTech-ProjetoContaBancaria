@@ -9,7 +9,7 @@ E é possível executar as operações através da classe **[TestaConta.java](ht
 
 **- [Conta corrente](https://github.com/carolmarquezini/afroTech-ProjetoContaBancaria/blob/main/contaBancaria/src/contaBancaria/ContaCorrente.java)** ;
 
-**- [Conta poupança](https://github.com/carolmarquezini/afroTech-ProjetoContaBancaria/blob/main/contaBancaria/src/contaBancaria/ContaEPoupanca.java)** ;
+**- [Conta poupança](https://github.com/carolmarquezini/afroTech-ProjetoContaBancaria/blob/main/contaBancaria/src/contaBancaria/ContaPoupanca.java)** ;
 
 **- [Conta especial](https://github.com/carolmarquezini/afroTech-ProjetoContaBancaria/blob/main/contaBancaria/src/contaBancaria/ContaEspecial.java)** ;
 
