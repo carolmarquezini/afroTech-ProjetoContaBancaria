@@ -14,7 +14,7 @@ E é possível executar as operações através da classe **[TestaConta.java](ht
 
 ### Tema
 
-Programação orientadada ao objeto (POO) - Desenvolvimento de uma aplicação para contas.
+Programação orientada ao objeto (POO) - Desenvolvimento de uma aplicação para contas.
 
 ### Aprendizado
 **Principais aprendizados desenvolvidos com esste projeto foram:** 
