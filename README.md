@@ -6,7 +6,7 @@ A **[conta](https://github.com/carolmarquezini/afroTech-ProjetoContaBancaria/blo
 
 E é possível executar as operações através da classe **[TestaConta.java](https://github.com/carolmarquezini/afroTech-ProjetoContaBancaria/blob/main/contaBancaria/src/contaBancaria/TestaConta.java)**.
 
-## Documentação 📰
+## Documentação 📄
 - [Tema](#tema)
 - [Aprendizado](#aprendizado)
 - [Arquitetura](#arquitetura)
