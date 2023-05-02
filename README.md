@@ -1,4 +1,4 @@
-# **AfroTech - Projeto Conta Bancaria 💰**
+# **Tech Afro Pretas - Projeto Conta Bancaria 💰**
 
 Projeto criado para simular o manuseio de contas (corrente, poupança, especial, empresarial e estudantil).
 
@@ -9,12 +9,12 @@ E é possível executar as operações através da classe **[TestaConta.java](ht
 ## Documentação 📄
 - [Tema](#tema)
 - [Aprendizado](#aprendizado)
-- [Arquitetura](#arquitetura)
+- [Estrutura](#estrutura)
 - [Regras](#regras)
 
 ### Tema
 
-Programação orientada ao objeto (POO) - Desenvolvimento de uma aplicação para contas.
+Programação Orientada a Objetos (POO) - Desenvolvimento de uma aplicação para contas.
 
 ### Aprendizado
 **Principais aprendizados desenvolvidos com este projeto foram:** 
@@ -26,7 +26,7 @@ Programação orientada ao objeto (POO) - Desenvolvimento de uma aplicação par
 - Polimorfismo, Herança e Sobrecarga;
 - Classe Abstrata.
 
-### Arquitetura
+### Estrutura
 ```
 📂 API     
 ├─ 📂 src                       
