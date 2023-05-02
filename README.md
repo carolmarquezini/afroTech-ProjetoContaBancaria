@@ -17,7 +17,7 @@ E é possível executar as operações através da classe **[TestaConta.java](ht
 Programação orientada ao objeto (POO) - Desenvolvimento de uma aplicação para contas.
 
 ### Aprendizado
-**Principais aprendizados desenvolvidos com esste projeto foram:** 
+**Principais aprendizados desenvolvidos com este projeto foram:** 
 - Entrada e saída de dados;
 - Laços condicionais;
 - Laços de repetições;
