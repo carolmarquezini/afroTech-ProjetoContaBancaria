@@ -30,14 +30,14 @@ Programação Orientada a Objetos (POO) - Desenvolvimento de uma aplicação par
 ```
 📂 API     
 ├─ 📂 src                       
-│  ├─ 📂 contaBancaria            
-│  │  └─ Conta.java
-│  │  └─ ContaCorrente.java
-│  │  └─ ContaEmpresarial.java
-│  │  └─ ContaEspecial.java
-│  │  └─ ContaEstudantil.java
-│  │  └─ ContaPoupanca.java  
-│  │  └─ TestaConta.java  
+│  └─ 📂 contaBancaria            
+│     ├─ Conta.java
+│     ├─ ContaCorrente.java
+│     ├─ ContaEmpresarial.java
+│     ├─ ContaEspecial.java
+│     ├─ ContaEstudantil.java
+│     ├─ ContaPoupanca.java  
+│     └─ TestaConta.java  
 ├─ .gitignore 
 └─ README.md             
 
